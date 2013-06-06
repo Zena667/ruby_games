@@ -79,3 +79,17 @@ end
 
 a = Tictactoe.new
 puts a.turn
+
+
+# Functionality we still want to add
+# possibility that person types more then one number
+# also, number typed has to be in range of 1-9
+# make sure players can't use the same number
+
+
+
+
+
+
+
+
